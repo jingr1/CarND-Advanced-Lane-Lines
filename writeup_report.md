@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/color_fit_lines.jpg "Fit Visual"
 [image6]: ./output_images/output.jpg "Output"
 [image7]: ./output_images/histogram.png "histogram"
-[video1]: ./project_video_output.mp4 "Video"
+[video1]: ./project_video_out.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -123,7 +123,7 @@ Here is the result on the test image:
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video_output.mp4)
+Here's a [link to my video result](./project_video_out.mp4)
 
 ---
 
