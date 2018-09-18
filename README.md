@@ -1,4 +1,4 @@
-## Advanced Lane Finding Project Writeup
+## Advanced Lane Finding
 
 The goals / steps of this project are the following:
 
